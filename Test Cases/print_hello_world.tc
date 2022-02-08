@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se imprime hello world por consola</description>
+   <name>print_hello_world</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4e01802-1d22-4752-9f5a-5b299b24e028</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se usa google chrome para buscar un objeto</description>
+   <name>google_chrome_search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e571910-b82a-4ce2-9c77-8c6658ca5684</testCaseGuid>
+</TestCaseEntity>
